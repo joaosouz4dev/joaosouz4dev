@@ -27,10 +27,10 @@
 
 <p align='center'>
   🖥️ My current hardware configurations<br/><br/>
-  <a href="javascript:void(0)" style="cursor: default"><img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /></a>
-  <a href="javascript:void(0)" style="cursor: default"><img src="https://img.shields.io/badge/intel-core%20i7%206700k-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /></a>
-  <a href="javascript:void(0)" style="cursor: default"><img src="https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=for-the-badge&logoColor=white" /></a>
-  <a href="javascript:void(0)" style="cursor: default"><img src="https://img.shields.io/badge/nvidia-gtx%20980-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /></a>
+  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/intel-core%20i7%206700k-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /></a>
+  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=for-the-badge&logoColor=white" /></a>
+  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/nvidia-gtx%20980-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /></a>
  </p>
 
 <p align='center'>
@@ -38,7 +38,7 @@
 </p>
 
 <p align='center'>
-  <a href="javascript:void(0)" style="cursor: default"><img src="https://badges.pufler.dev/visits/joaosouz4dev/joaosouz4dev"></a> 
+  <a href="#" style="cursor: default"><img src="https://badges.pufler.dev/visits/joaosouz4dev/joaosouz4dev"></a> 
 </p>
 
 <p align='center'>
