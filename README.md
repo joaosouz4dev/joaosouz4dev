@@ -41,7 +41,9 @@
   <a href="#" style="cursor: default"><img src="https://badges.pufler.dev/visits/joaosouz4dev/joaosouz4dev"></a> 
 </p>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouz4dev&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'>
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouz4dev&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <p align='center'>
     Technology 🚀
