@@ -11,14 +11,12 @@
 
 
 <p align='center'>
-  
   <a href="https://www.linkedin.com/in/joaosouz4dev/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://instagram.com/joaosouz4dev">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
+  </a>
 </p>
 
 <p align='center'>
@@ -38,7 +36,8 @@
 </p>
 
 <p align='center'>
-  <a href="#" style="cursor: default"><img src="https://badges.pufler.dev/visits/joaosouz4dev/joaosouz4dev"></a> 
+  <a href="#" style="cursor: default"><img src="https://badges.pufler.dev/visits/joaosouz4dev/joaosouz4dev"></a>
+  ![](https://komarev.com/ghpvc/?username=joaosouz4dev&color=dc143c)
 </p>
 
 <p align='center'>
