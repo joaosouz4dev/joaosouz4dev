@@ -36,10 +36,9 @@
 </p>
 
 <p align='center'>
-  <a href="#" style="cursor: default"><img src="https://badges.pufler.dev/visits/joaosouz4dev/joaosouz4dev"></a>
+  <a href="#" style="cursor: default"><img src="https://komarev.com/ghpvc/?username=joaosouz4dev&color=brightgreen"></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=joaosouz4dev&color=dc143c)
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouz4dev&hide=PlpgSQL,jupyter%20notebook,html">
 </p>
