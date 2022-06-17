@@ -73,8 +73,12 @@
 ## Experience 🚀
 
 - 👨‍💻 **Web Developer**\
-📆 2020 - Moment\
-📍 **Mapp Sistemas** - Betim, Brazil
+📆 2021 - moment\
+📍 **Dr.Pay** - Nova Lima - MG, Brazil
+  
+- 👨‍💻 **Web Developer**\
+📆 2020 - 2021\
+📍 **Mapp Sistemas** - Betim - MG, Brazil
 
 </details>
 
