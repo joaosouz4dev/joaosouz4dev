@@ -20,7 +20,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=joaosouz4dev&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaosouz4dev&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
@@ -40,7 +40,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouz4dev&hide=PlpgSQL,jupyter%20notebook,html">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaosouz4dev&hide=PlpgSQL,jupyter%20notebook,html">
 </p>
 
 <p align='center'>
