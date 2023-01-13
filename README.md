@@ -36,7 +36,6 @@
 
 <p align='center'>
   📱 How to talk to me: <a href='mailto:web@joaovictorsouza.dev'>web@joaovictorsouza.dev</a>
-  👾 More about me: <a href='joaovictorsouza.dev'>joaovictorsouza.dev</a>
 </p>
 
 <p align='center'>
@@ -64,5 +63,3 @@
     <img align="center" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
     <img align="center" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </p>
-
-  <summary>[📃 About Me](https://www.linkedin.com/in/joaosouz4dev/)</summary>
