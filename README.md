@@ -40,7 +40,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaosouz4dev&hide=PlpgSQL,jupyter%20notebook,html">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaosouz4dev&hide=PlpgSQL,jupyter%20notebook,html&theme=dark">
 </p>
 
 <p align='center'>
