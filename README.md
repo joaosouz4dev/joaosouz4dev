@@ -26,7 +26,7 @@
 <p align='center'>
   🖥️ My current hardware configurations<br/><br/>
   <a href="#" style="cursor: default">
-    <img src="https://img.shields.io/badge/intel-core%20i7%209750H-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+    <img src="https://img.shields.io/badge/intel-core%20i7%209750H-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   </a>
   <a href="#" style="cursor: default">
     <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
