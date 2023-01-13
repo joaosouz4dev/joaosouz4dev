@@ -8,8 +8,6 @@
   A web developer from Betim, Brazil.
 </p>
 
-
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/joaosouz4dev/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -38,6 +36,7 @@
 
 <p align='center'>
   📱 How to talk to me: <a href='mailto:web@joaovictorsouza.dev'>web@joaovictorsouza.dev</a>
+  👾 More about me: <a href='joaovictorsouza.dev'>joaovictorsouza.dev</a>
 </p>
 
 <p align='center'>
@@ -66,38 +65,4 @@
     <img align="center" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </p>
 
-<details>
-  <summary>📃 About Me</summary>
-
-## Education 🚀
-
-- 📖 **Information systems**\
-📆 2015 - 2019\
-📍 **State University of Minas Gerais** - Carangola - MG, Brazil
-
-## Experience 🚀
-
-- 👨‍💻 **Web Developer**\
-📆 2021 - moment\
-📍 **Dr.Pay** - Nova Lima - MG, Brazil
-  
-- 👨‍💻 **Web Developer**\
-📆 2020 - 2021\
-📍 **Mapp Sistemas** - Betim - MG, Brazil
-
-</details>
-
-<!--
-**joaosouz4dev/joaosouz4dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <summary>[📃 About Me](https://www.linkedin.com/in/joaosouz4dev/)</summary>
