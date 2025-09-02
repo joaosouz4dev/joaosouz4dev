@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A web developer from Betim, Brazil.
+  A web developer from Brazil.
 </p>
 
 <p align='center'>
@@ -18,11 +18,19 @@
 </p>
 
 <p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app//api?username=joaosouz4dev&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
   📱 How to talk to me: <a href='mailto:web@joaovictorsouza.dev'>web@joaovictorsouza.dev</a>
 </p>
 
 <p align='center'>
   <a href="#" style="cursor: default"><img src="https://komarev.com/ghpvc/?username=joaosouz4dev&color=brightgreen"></a>
+</p>
+
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app//api/top-langs/?username=joaosouz4dev&hide=PlpgSQL,jupyter%20notebook,html&theme=dark">
 </p>
 
 <p align='center'>
