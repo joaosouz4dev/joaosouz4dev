@@ -24,5 +24,5 @@ me.say_hi()
 ```
 
 ### 📱 How to talk to me  
-[web@joaovictorsouza.dev](mailto:web@joaovictorsouza.dev)
+[web@joaovictorsouza.dev](mailto:web@joaovictorsouza.dev)  
 [whatsapp](joaovictorsouza.dev/whatsapp)
